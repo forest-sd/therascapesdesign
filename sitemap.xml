@@ -17,4 +17,34 @@
   <url><loc>https://therascapesdesign.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://therascapesdesign.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://therascapesdesign.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://therascapesdesign.com/blog/drought-tolerant-landscaping-beautiful-water-wise-gardens/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://therascapesdesign.com/blog/hardscape-design-elements-patios-paths-and-walls/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://therascapesdesign.com/blog/native-plant-gardens-ecological-and-aesthetic-benefits/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://therascapesdesign.com/blog/outdoor-living-rooms-extending-your-home-into-nature/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://therascapesdesign.com/blog/sustainable-landscape-practices-for-homeowners/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
