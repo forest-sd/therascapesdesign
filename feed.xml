@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TheraScapes Design</title>
-    <link>https://therascapesdesign.pages.dev</link>
+    <link>https://therascapesdesign.com</link>
     <description>Latest posts from TheraScapes Design</description>
     <language>en-us</language>
     <lastBuildDate>2026-02-21</lastBuildDate>
-    <atom:link href="https://therascapesdesign.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://therascapesdesign.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Building Stronger Communities Through Local Engagement</title>
-      <link>https://therascapesdesign.pages.dev/blog/building-stronger-communities-through-local-engagement/</link>
+      <link>https://therascapesdesign.com/blog/building-stronger-communities-through-local-engagement/</link>
       <description>Building Stronger Communities Through Local Engagement — an in-depth exploration with evidence-based insights.</description>
       <pubDate>2026-02-21</pubDate>
     </item>
